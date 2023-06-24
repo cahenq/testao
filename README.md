@@ -1,7 +1,7 @@
 # App calculadora
 # integrantes
 
-- Douglas Arthur
-- Jefferson Bruno
-- Robson André
-- Wandell Mota
+- Cauaã Henrique
+- Graziela Gomes
+- Jhennyfér Cristine
+- Israelly Barbosa
